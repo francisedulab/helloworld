@@ -3,7 +3,7 @@
 
 - Clone the project
 - change directory and npm install
-- Add the following code in app.js file
+- Add the following code in index.js file
 
 ```sh
 const express = require('express')                // Importing express
